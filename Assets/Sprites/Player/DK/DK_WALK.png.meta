@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 78356d13577851640ac13aeacb49d46e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3182270430991508087
+    second: DK_WALK_0
+  - first:
+      213: 8759325259099510051
+    second: DK_WALK_1
+  - first:
+      213: 8304759000233763322
+    second: DK_WALK_2
+  - first:
+      213: 3515111680968420242
+    second: DK_WALK_3
+  - first:
+      213: -6457882468209651356
+    second: DK_WALK_4
+  - first:
+      213: 1022086610228518334
+    second: DK_WALK_5
+  - first:
+      213: 6176806344415220728
+    second: DK_WALK_6
+  - first:
+      213: -2876308165338357849
+    second: DK_WALK_7
+  - first:
+      213: -9099548278132592163
+    second: DK_WALK_8
+  - first:
+      213: -8061876690902210886
+    second: DK_WALK_9
+  - first:
+      213: 3052251770620459817
+    second: DK_WALK_10
+  - first:
+      213: -8404943814415444441
+    second: DK_WALK_11
+  - first:
+      213: -811289098025534777
+    second: DK_WALK_12
+  - first:
+      213: 9083961877655944164
+    second: DK_WALK_13
+  - first:
+      213: 2149661332294275057
+    second: DK_WALK_14
+  - first:
+      213: 5504485598679281721
+    second: DK_WALK_15
+  - first:
+      213: 1992704352041028176
+    second: DK_WALK_16
+  - first:
+      213: 6149328440204227508
+    second: DK_WALK_17
+  - first:
+      213: -245537953901550715
+    second: DK_WALK_18
+  - first:
+      213: 1882093930172022113
+    second: DK_WALK_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DK_WALK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7726a7ab812b92c20800000000000000
+      internalID: 3182270430991508087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3259bbc0aef5f8970800000000000000
+      internalID: 8759325259099510051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1692a6f4e604370800000000000000
+      internalID: 8304759000233763322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be2f1337f28c030800000000000000
+      internalID: 3515111680968420242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46114294c1ef066a0800000000000000
+      internalID: -6457882468209651356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd9a545b5e2f2e00800000000000000
+      internalID: 1022086610228518334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39f35e4ac68b550800000000000000
+      internalID: 6176806344415220728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af937486fc4518d0800000000000000
+      internalID: -2876308165338357849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b3617d09e7b180800000000000000
+      internalID: -9099548278132592163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a5cffcd57e1090800000000000000
+      internalID: -8061876690902210886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb3e850d6cb5a20800000000000000
+      internalID: 3052251770620459817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72696a0d124ab5b80800000000000000
+      internalID: -8404943814415444441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7a0e1dd8bdb4f0800000000000000
+      internalID: -811289098025534777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb7fd6e237b01e70800000000000000
+      internalID: 9083961877655944164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0bc2a79125dd10800000000000000
+      internalID: 2149661332294275057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930388cec7cd36c40800000000000000
+      internalID: 5504485598679281721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_16
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ac7c5ec0287ab10800000000000000
+      internalID: 1992704352041028176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b37495c2adc65550800000000000000
+      internalID: 6149328440204227508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58362d6288ca79cf0800000000000000
+      internalID: -245537953901550715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DK_WALK_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d72dd257a8e1a10800000000000000
+      internalID: 1882093930172022113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DK_WALK_0: 3182270430991508087
+      DK_WALK_1: 8759325259099510051
+      DK_WALK_10: 3052251770620459817
+      DK_WALK_11: -8404943814415444441
+      DK_WALK_12: -811289098025534777
+      DK_WALK_13: 9083961877655944164
+      DK_WALK_14: 2149661332294275057
+      DK_WALK_15: 5504485598679281721
+      DK_WALK_16: 1992704352041028176
+      DK_WALK_17: 6149328440204227508
+      DK_WALK_18: -245537953901550715
+      DK_WALK_19: 1882093930172022113
+      DK_WALK_2: 8304759000233763322
+      DK_WALK_3: 3515111680968420242
+      DK_WALK_4: -6457882468209651356
+      DK_WALK_5: 1022086610228518334
+      DK_WALK_6: 6176806344415220728
+      DK_WALK_7: -2876308165338357849
+      DK_WALK_8: -9099548278132592163
+      DK_WALK_9: -8061876690902210886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

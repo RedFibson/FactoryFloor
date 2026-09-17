@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: c56460dbeda630f459fe04e1463fa2f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5684284783507370451
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_0
+  - first:
+      213: 4445317494640620311
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_1
+  - first:
+      213: 6209977723180839754
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_2
+  - first:
+      213: 2993213970851733303
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_3
+  - first:
+      213: 7441004782451920304
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_4
+  - first:
+      213: 6037378458419286728
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_5
+  - first:
+      213: -7583940006573973518
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_6
+  - first:
+      213: -6462653543640571435
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_7
+  - first:
+      213: 8325158524605149210
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_8
+  - first:
+      213: -3316423013722491103
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_9
+  - first:
+      213: 1352689683028151988
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_10
+  - first:
+      213: -7206256323576261547
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_11
+  - first:
+      213: 2808655133858248601
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_12
+  - first:
+      213: 8595197722452565853
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_13
+  - first:
+      213: -1699958419643331536
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_14
+  - first:
+      213: 1483949696111498656
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_15
+  - first:
+      213: 2740465157437289869
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_16
+  - first:
+      213: 1804054666715988388
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_17
+  - first:
+      213: 5935890064653906805
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_18
+  - first:
+      213: -485277010919769562
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_19
+  - first:
+      213: -6301525615629964271
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_20
+  - first:
+      213: 5182168368012721390
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_21
+  - first:
+      213: -7507272571953827410
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_22
+  - first:
+      213: -1555626642777227767
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_23
+  - first:
+      213: -14885110281927496
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_24
+  - first:
+      213: 8200734137230503990
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_25
+  - first:
+      213: 462102375045004275
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_26
+  - first:
+      213: 6017901464161563210
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_27
+  - first:
+      213: -7158583073174760108
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_28
+  - first:
+      213: 2687493069109740211
+    second: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+      Hedgehog_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 78
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 271
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e82e42b1d5d11b0800000000000000
+      internalID: -5684284783507370451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 271
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71332e585b0f0bd30800000000000000
+      internalID: 4445317494640620311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 271
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43784d56d54e2650800000000000000
+      internalID: 6209977723180839754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 271
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9a5d6f380a8920800000000000000
+      internalID: 2993213970851733303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd870eec62c34760800000000000000
+      internalID: 7441004782451920304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 207
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c25da478b319c350800000000000000
+      internalID: 6037378458419286728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 211
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffd846debe60c690800000000000000
+      internalID: -7583940006573973518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 211
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d162e8b7da0056a0800000000000000
+      internalID: -6462653543640571435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 211
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10b7edc197e88370800000000000000
+      internalID: 8325158524605149210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f32617d2b9f1d0800000000000000
+      internalID: -3316423013722491103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 148
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be8a309918b5c210800000000000000
+      internalID: 1352689683028151988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 145
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55413d8dd0c3efb90800000000000000
+      internalID: -7206256323576261547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 146
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b23e96f85af620800000000000000
+      internalID: 2808655133858248601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f180d0ac6484770800000000000000
+      internalID: 8595197722452565853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c8938f2d88868e0800000000000000
+      internalID: -1699958419643331536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 143
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a55645e26c089410800000000000000
+      internalID: 1483949696111498656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 143
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8572648a86180620800000000000000
+      internalID: 2740465157437289869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a10efc392a490910800000000000000
+      internalID: 1804054666715988388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 79
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57377796094806250800000000000000
+      internalID: 5935890064653906805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ab6723123f349f0800000000000000
+      internalID: -485277010919769562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 80
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ce959e6db7c88a0800000000000000
+      internalID: -6301525615629964271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 81
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecf9a5aca2cae740800000000000000
+      internalID: 5182168368012721390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1b8acfe5fc0d790800000000000000
+      internalID: -7507272571953827410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_23
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 80
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e312a7fcd496ae0800000000000000
+      internalID: -1555626642777227767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 80
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b40431321e1bcff0800000000000000
+      internalID: -14885110281927496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6303b0b9f3cdec170800000000000000
+      internalID: 8200734137230503990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 14
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfb6a69a7b96600800000000000000
+      internalID: 462102375045004275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 14
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4237a85f71e38350800000000000000
+      internalID: 6017901464161563210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4555b4c6f9a97ac90800000000000000
+      internalID: -7158583073174760108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the
+        Hedgehog_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 15
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24c9815b4eb4520800000000000000
+      internalID: 2687493069109740211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_0: -5684284783507370451
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_1: 4445317494640620311
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_10: 1352689683028151988
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_11: -7206256323576261547
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_12: 2808655133858248601
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_13: 8595197722452565853
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_14: -1699958419643331536
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_15: 1483949696111498656
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_16: 2740465157437289869
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_17: 1804054666715988388
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_18: 5935890064653906805
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_19: -485277010919769562
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_2: 6209977723180839754
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_20: -6301525615629964271
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_21: 5182168368012721390
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_22: -7507272571953827410
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_23: -1555626642777227767
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_24: -14885110281927496
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_25: 8200734137230503990
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_26: 462102375045004275
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_27: 6017901464161563210
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_28: -7158583073174760108
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_29: 2687493069109740211
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_3: 2993213970851733303
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_4: 7441004782451920304
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_5: 6037378458419286728
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_6: -7583940006573973518
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_7: -6462653543640571435
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_8: 8325158524605149210
+      Browser Games - Sonic The Broad Jump - Playable Characters - Sonic the Hedgehog_9: -3316423013722491103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

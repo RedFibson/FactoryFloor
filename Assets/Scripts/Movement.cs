@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class ControlePlataforma2D : MonoBehaviour
+public class Movement : MonoBehaviour
 {
     [Header("Configurações de Movimento")]
     [SerializeField] private float moveSpeed = 7f;

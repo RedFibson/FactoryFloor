@@ -1,0 +1,5083 @@
+fileFormatVersion: 2
+guid: 0923e5a703bae8f46a77b78a74910daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6380190707479817123
+    second: hollow_sprites_0
+  - first:
+      213: 7058296136034109
+    second: hollow_sprites_1
+  - first:
+      213: -2154568620315599054
+    second: hollow_sprites_2
+  - first:
+      213: 1971108408203469984
+    second: hollow_sprites_3
+  - first:
+      213: 4132751997273591803
+    second: hollow_sprites_4
+  - first:
+      213: 6498645414583486118
+    second: hollow_sprites_5
+  - first:
+      213: 973397028945812434
+    second: hollow_sprites_6
+  - first:
+      213: 3134172769494133231
+    second: hollow_sprites_7
+  - first:
+      213: -4563475645817820720
+    second: hollow_sprites_8
+  - first:
+      213: 317721387954344350
+    second: hollow_sprites_9
+  - first:
+      213: 4220145921393346448
+    second: hollow_sprites_10
+  - first:
+      213: 1535034726805937376
+    second: hollow_sprites_11
+  - first:
+      213: 2919959166979426570
+    second: hollow_sprites_12
+  - first:
+      213: -841972917129833277
+    second: hollow_sprites_13
+  - first:
+      213: 1613563358725081767
+    second: hollow_sprites_14
+  - first:
+      213: -3153013078808506082
+    second: hollow_sprites_15
+  - first:
+      213: 879134192585219852
+    second: hollow_sprites_16
+  - first:
+      213: -2193679271645348951
+    second: hollow_sprites_17
+  - first:
+      213: 6390295803736865407
+    second: hollow_sprites_18
+  - first:
+      213: -4282577162628761410
+    second: hollow_sprites_19
+  - first:
+      213: 6506362924898853817
+    second: hollow_sprites_20
+  - first:
+      213: -7638984423990787664
+    second: hollow_sprites_21
+  - first:
+      213: -6848622720306947235
+    second: hollow_sprites_22
+  - first:
+      213: 7142423631645797796
+    second: hollow_sprites_23
+  - first:
+      213: -8073923570800621386
+    second: hollow_sprites_24
+  - first:
+      213: -723953552104322572
+    second: hollow_sprites_25
+  - first:
+      213: 3057162687331223992
+    second: hollow_sprites_26
+  - first:
+      213: 3156067822463129698
+    second: hollow_sprites_27
+  - first:
+      213: -9043072480530621476
+    second: hollow_sprites_28
+  - first:
+      213: -8514099681405586500
+    second: hollow_sprites_29
+  - first:
+      213: 4782326454301776660
+    second: hollow_sprites_30
+  - first:
+      213: -1117325780030852456
+    second: hollow_sprites_31
+  - first:
+      213: -6640026920572502428
+    second: hollow_sprites_32
+  - first:
+      213: -9029330355480396072
+    second: hollow_sprites_33
+  - first:
+      213: -2746711369258914613
+    second: hollow_sprites_34
+  - first:
+      213: -1492996550649118974
+    second: hollow_sprites_35
+  - first:
+      213: -207616159481624471
+    second: hollow_sprites_36
+  - first:
+      213: -4402275855889188610
+    second: hollow_sprites_37
+  - first:
+      213: -2547742024925927747
+    second: hollow_sprites_38
+  - first:
+      213: -8204606101473878296
+    second: hollow_sprites_39
+  - first:
+      213: -4605007106329202750
+    second: hollow_sprites_40
+  - first:
+      213: -5445228877216738774
+    second: hollow_sprites_41
+  - first:
+      213: -4791293788094382247
+    second: hollow_sprites_42
+  - first:
+      213: -6892909713581118517
+    second: hollow_sprites_43
+  - first:
+      213: -5851139665030287754
+    second: hollow_sprites_44
+  - first:
+      213: 7424683411906993511
+    second: hollow_sprites_45
+  - first:
+      213: 4998759019492371868
+    second: hollow_sprites_46
+  - first:
+      213: -7972069851648855660
+    second: hollow_sprites_47
+  - first:
+      213: -3927824945033120508
+    second: hollow_sprites_48
+  - first:
+      213: -2396504720777823329
+    second: hollow_sprites_49
+  - first:
+      213: -7382289609853954906
+    second: hollow_sprites_50
+  - first:
+      213: -9126073098567158452
+    second: hollow_sprites_51
+  - first:
+      213: 7545377453040285927
+    second: hollow_sprites_52
+  - first:
+      213: 2433791144567964817
+    second: hollow_sprites_53
+  - first:
+      213: 931871469904941167
+    second: hollow_sprites_54
+  - first:
+      213: 3805738720822953146
+    second: hollow_sprites_55
+  - first:
+      213: 5740519700640538038
+    second: hollow_sprites_56
+  - first:
+      213: -3621228367702203578
+    second: hollow_sprites_57
+  - first:
+      213: 1328568496259771685
+    second: hollow_sprites_58
+  - first:
+      213: -6477202553449224102
+    second: hollow_sprites_59
+  - first:
+      213: 4850021204295752248
+    second: hollow_sprites_60
+  - first:
+      213: -758807655460605083
+    second: hollow_sprites_61
+  - first:
+      213: 6180111886816412429
+    second: hollow_sprites_62
+  - first:
+      213: -934894419380005215
+    second: hollow_sprites_63
+  - first:
+      213: 6831990415267838771
+    second: hollow_sprites_64
+  - first:
+      213: 5838810002363275132
+    second: hollow_sprites_65
+  - first:
+      213: 6340543678462859097
+    second: hollow_sprites_66
+  - first:
+      213: -2645112264643929514
+    second: hollow_sprites_67
+  - first:
+      213: 7394850445418533294
+    second: hollow_sprites_68
+  - first:
+      213: 6169599083742916479
+    second: hollow_sprites_69
+  - first:
+      213: 5721100253093227613
+    second: hollow_sprites_70
+  - first:
+      213: -9208981345396329879
+    second: hollow_sprites_71
+  - first:
+      213: -6281459594121752911
+    second: hollow_sprites_72
+  - first:
+      213: -3620043288542097437
+    second: hollow_sprites_73
+  - first:
+      213: 5780937005806065721
+    second: hollow_sprites_74
+  - first:
+      213: -7875216686726639996
+    second: hollow_sprites_75
+  - first:
+      213: -6058309422753202928
+    second: hollow_sprites_76
+  - first:
+      213: -5415385840671809342
+    second: hollow_sprites_77
+  - first:
+      213: -7063880785531699451
+    second: hollow_sprites_78
+  - first:
+      213: 5805932546289888085
+    second: hollow_sprites_79
+  - first:
+      213: -5590362458169487017
+    second: hollow_sprites_80
+  - first:
+      213: 7723304859190174012
+    second: hollow_sprites_81
+  - first:
+      213: 1806856053582272554
+    second: hollow_sprites_82
+  - first:
+      213: 7401061894423657217
+    second: hollow_sprites_83
+  - first:
+      213: -5193877087821891357
+    second: hollow_sprites_84
+  - first:
+      213: 5172595913052973632
+    second: hollow_sprites_85
+  - first:
+      213: -9213738188170543351
+    second: hollow_sprites_86
+  - first:
+      213: -6560933671492820948
+    second: hollow_sprites_87
+  - first:
+      213: 4661296163639631170
+    second: hollow_sprites_88
+  - first:
+      213: -8567434798426287803
+    second: hollow_sprites_89
+  - first:
+      213: -3271792163008173365
+    second: hollow_sprites_90
+  - first:
+      213: -4341214424394606521
+    second: hollow_sprites_91
+  - first:
+      213: -281166743431685755
+    second: hollow_sprites_92
+  - first:
+      213: 8867785393130228460
+    second: hollow_sprites_93
+  - first:
+      213: -8047647532646996680
+    second: hollow_sprites_94
+  - first:
+      213: 437552227873645803
+    second: hollow_sprites_95
+  - first:
+      213: -8998410076183156353
+    second: hollow_sprites_96
+  - first:
+      213: 6279807568117339237
+    second: hollow_sprites_97
+  - first:
+      213: 176584256639884494
+    second: hollow_sprites_98
+  - first:
+      213: -6882674468779680035
+    second: hollow_sprites_99
+  - first:
+      213: 9044916992381066767
+    second: hollow_sprites_100
+  - first:
+      213: 6556944414797229785
+    second: hollow_sprites_101
+  - first:
+      213: -1649253905362961930
+    second: hollow_sprites_102
+  - first:
+      213: 2643409626820633964
+    second: hollow_sprites_103
+  - first:
+      213: -4315930855820120729
+    second: hollow_sprites_104
+  - first:
+      213: -6948203578007233976
+    second: hollow_sprites_105
+  - first:
+      213: 6949462330200568289
+    second: hollow_sprites_106
+  - first:
+      213: -2555496819754143278
+    second: hollow_sprites_107
+  - first:
+      213: -396433820837453798
+    second: hollow_sprites_108
+  - first:
+      213: 7586005645577885368
+    second: hollow_sprites_109
+  - first:
+      213: 1609878335598233184
+    second: hollow_sprites_110
+  - first:
+      213: 2368379867905087649
+    second: hollow_sprites_111
+  - first:
+      213: -8152213074087337302
+    second: hollow_sprites_112
+  - first:
+      213: 6614402634399226936
+    second: hollow_sprites_113
+  - first:
+      213: 4040741505825123078
+    second: hollow_sprites_114
+  - first:
+      213: -687264576198312924
+    second: hollow_sprites_115
+  - first:
+      213: -594707965054293837
+    second: hollow_sprites_116
+  - first:
+      213: -5047900365380859288
+    second: hollow_sprites_117
+  - first:
+      213: 5112446975900815419
+    second: hollow_sprites_118
+  - first:
+      213: 1573344251631711293
+    second: hollow_sprites_119
+  - first:
+      213: 1612400885111981903
+    second: hollow_sprites_120
+  - first:
+      213: 1318017778785308114
+    second: hollow_sprites_121
+  - first:
+      213: 10137913827822941
+    second: hollow_sprites_122
+  - first:
+      213: 9177568823384959726
+    second: hollow_sprites_123
+  - first:
+      213: 263080209492070034
+    second: hollow_sprites_124
+  - first:
+      213: -8472230165599427531
+    second: hollow_sprites_125
+  - first:
+      213: -6997234327085877265
+    second: hollow_sprites_126
+  - first:
+      213: 290232734963352787
+    second: hollow_sprites_127
+  - first:
+      213: -6813901124035215364
+    second: hollow_sprites_128
+  - first:
+      213: -5817375218532846597
+    second: hollow_sprites_129
+  - first:
+      213: 8758810461985685611
+    second: hollow_sprites_130
+  - first:
+      213: -41645817889750337
+    second: hollow_sprites_131
+  - first:
+      213: -6709049976398750818
+    second: hollow_sprites_132
+  - first:
+      213: -6362523677318859935
+    second: hollow_sprites_133
+  - first:
+      213: -3000620923094313299
+    second: hollow_sprites_134
+  - first:
+      213: 2779022907934864933
+    second: hollow_sprites_135
+  - first:
+      213: -1280799605687745282
+    second: hollow_sprites_136
+  - first:
+      213: 7053645675360890344
+    second: hollow_sprites_137
+  - first:
+      213: -2231780426701540514
+    second: hollow_sprites_138
+  - first:
+      213: -777373081996479005
+    second: hollow_sprites_139
+  - first:
+      213: 9184241507686427595
+    second: hollow_sprites_140
+  - first:
+      213: -1378572540300826414
+    second: hollow_sprites_141
+  - first:
+      213: 1947512387464281472
+    second: hollow_sprites_142
+  - first:
+      213: 8926976504823059356
+    second: hollow_sprites_143
+  - first:
+      213: -8623146140657922182
+    second: hollow_sprites_144
+  - first:
+      213: 5780610976304829975
+    second: hollow_sprites_145
+  - first:
+      213: -4620571079036341200
+    second: hollow_sprites_146
+  - first:
+      213: -9886028495150054
+    second: hollow_sprites_147
+  - first:
+      213: -515606343657936018
+    second: hollow_sprites_148
+  - first:
+      213: 263658433868629010
+    second: hollow_sprites_149
+  - first:
+      213: 8505682486082050196
+    second: hollow_sprites_150
+  - first:
+      213: 9117339321179096521
+    second: hollow_sprites_151
+  - first:
+      213: -6642622631108978997
+    second: hollow_sprites_152
+  - first:
+      213: 3516175238683099319
+    second: hollow_sprites_153
+  - first:
+      213: 5017918828747438131
+    second: hollow_sprites_154
+  - first:
+      213: 247281938920227901
+    second: hollow_sprites_155
+  - first:
+      213: 8946338793615609343
+    second: hollow_sprites_156
+  - first:
+      213: 3317836777255759122
+    second: hollow_sprites_157
+  - first:
+      213: 4276252673269344607
+    second: hollow_sprites_158
+  - first:
+      213: -8946617307571271942
+    second: hollow_sprites_159
+  - first:
+      213: -1934783293225749816
+    second: hollow_sprites_160
+  - first:
+      213: 4203924102338242225
+    second: hollow_sprites_161
+  - first:
+      213: 7068808800734285355
+    second: hollow_sprites_162
+  - first:
+      213: 6709305295598721040
+    second: hollow_sprites_163
+  - first:
+      213: 7902473976958864894
+    second: hollow_sprites_164
+  - first:
+      213: -7831142566482646784
+    second: hollow_sprites_165
+  - first:
+      213: 8514130044668387244
+    second: hollow_sprites_166
+  - first:
+      213: -6526925131625038398
+    second: hollow_sprites_167
+  - first:
+      213: -5416824329444173343
+    second: hollow_sprites_168
+  - first:
+      213: -7457269155389960793
+    second: hollow_sprites_169
+  - first:
+      213: 4700220068591088767
+    second: hollow_sprites_170
+  - first:
+      213: -2386681735264038614
+    second: hollow_sprites_171
+  - first:
+      213: 1019821219789205457
+    second: hollow_sprites_172
+  - first:
+      213: -1340001676154440830
+    second: hollow_sprites_173
+  - first:
+      213: -2499295835697612322
+    second: hollow_sprites_174
+  - first:
+      213: -9157781796534470550
+    second: hollow_sprites_175
+  - first:
+      213: 5023494653697280081
+    second: hollow_sprites_176
+  - first:
+      213: -7960654306560762136
+    second: hollow_sprites_177
+  - first:
+      213: -1826327268089838405
+    second: hollow_sprites_178
+  - first:
+      213: -6460582819680711824
+    second: hollow_sprites_179
+  - first:
+      213: 4907739597561186216
+    second: hollow_sprites_180
+  - first:
+      213: 7294918070385618345
+    second: hollow_sprites_181
+  - first:
+      213: -7279210259646568581
+    second: hollow_sprites_182
+  - first:
+      213: -2356279093633664143
+    second: hollow_sprites_183
+  - first:
+      213: -5049663483879728952
+    second: hollow_sprites_184
+  - first:
+      213: -3023002570627972927
+    second: hollow_sprites_185
+  - first:
+      213: -5220875045026921379
+    second: hollow_sprites_186
+  - first:
+      213: -2362673164151140888
+    second: hollow_sprites_187
+  - first:
+      213: 1070555581356006748
+    second: hollow_sprites_188
+  - first:
+      213: 6312153213830446640
+    second: hollow_sprites_189
+  - first:
+      213: 7952649747141732527
+    second: hollow_sprites_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hollow_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1926
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab259e05adfa8850800000000000000
+      internalID: 6380190707479817123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1927
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3768e1ab73191000800000000000000
+      internalID: 7058296136034109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1926
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f92e5514f6912e0800000000000000
+      internalID: -2154568620315599054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1926
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e0c467a8ca5b10800000000000000
+      internalID: 1971108408203469984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1926
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff47469b0c7a5930800000000000000
+      internalID: 4132751997273591803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1926
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64871c293df2a50800000000000000
+      internalID: 6498645414583486118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1926
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5cb7c073328d00800000000000000
+      internalID: 973397028945812434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1926
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9666e3781de7b20800000000000000
+      internalID: 3134172769494133231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1926
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e1e514174ba0c0800000000000000
+      internalID: -4563475645817820720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1920
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9110924be5c86400800000000000000
+      internalID: 317721387954344350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1927
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c6f03b58f09a30800000000000000
+      internalID: 4220145921393346448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1928
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec182973f98d4510800000000000000
+      internalID: 1535034726805937376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1924
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09447a4467c58820800000000000000
+      internalID: 2919959166979426570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1924
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41af3c716b054f0800000000000000
+      internalID: -841972917129833277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1928
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa05636357846610800000000000000
+      internalID: 1613563358725081767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1928
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1155796f4f3e34d0800000000000000
+      internalID: -3153013078808506082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1799
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f11fae3ef433c00800000000000000
+      internalID: 879134192585219852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1798
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abf076335c7e81e0800000000000000
+      internalID: -2193679271645348951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab76f1d24eea850800000000000000
+      internalID: 6390295803736865407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1798
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ff4ab2ca3194c0800000000000000
+      internalID: -4282577162628761410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1799
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32e56ab9e3b4a50800000000000000
+      internalID: 6506362924898853817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b18943b320ecf590800000000000000
+      internalID: -7638984423990787664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1798
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b5f63ebedc4f0a0800000000000000
+      internalID: -6848622720306947235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1798
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6a97637cfe1360800000000000000
+      internalID: 7142423631645797796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1798
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b886c23a49a3ff80800000000000000
+      internalID: -8073923570800621386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1798
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f980fc741004f5f0800000000000000
+      internalID: -723953552104322572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1798
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c4fe34493d6a20800000000000000
+      internalID: 3057162687331223992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26894f486fa9ccb20800000000000000
+      internalID: 3156067822463129698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1671
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9cdfbd7d808280800000000000000
+      internalID: -9043072480530621476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1672
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bd8b0377d7d980800000000000000
+      internalID: -8514099681405586500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1671
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5c94829c3e5240800000000000000
+      internalID: 4782326454301776660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1683
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892ffd67f167e70f0800000000000000
+      internalID: -1117325780030852456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1675
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ebe3432b2e9d3a0800000000000000
+      internalID: -6640026920572502428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1675
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de70f191ef51b280800000000000000
+      internalID: -9029330355480396072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1680
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccabc6ff88b1e9d0800000000000000
+      internalID: -2746711369258914613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1674
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ffca32c8fc74be0800000000000000
+      internalID: -1492996550649118974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1664
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688774f3366e1df0800000000000000
+      internalID: -207616159481624471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1665
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8327eee69f7e2c0800000000000000
+      internalID: -4402275855889188610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1672
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a4f8702a94acd0800000000000000
+      internalID: -2547742024925927747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1670
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee95a77832632e80800000000000000
+      internalID: -8204606101473878296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1314
+        width: 440
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf29176f6ab710c0800000000000000
+      internalID: -4605007106329202750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1543
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221cccaf29ae64b0800000000000000
+      internalID: -5445228877216738774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1543
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f39126fa7e18db0800000000000000
+      internalID: -4791293788094382247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1543
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb682db2277750a0800000000000000
+      internalID: -6892909713581118517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eebaea9739ccea0800000000000000
+      internalID: -5851139665030287754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d9378b936c90760800000000000000
+      internalID: 7424683411906993511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d6f9af7d82f5540800000000000000
+      internalID: 4998759019492371868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1543
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4917edf25b48d5190800000000000000
+      internalID: -7972069851648855660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1543
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f163e5009d79c0800000000000000
+      internalID: -3927824945033120508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1545
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbd7757a7edbed0800000000000000
+      internalID: -2396504720777823329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1544
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4199f76b6dc8990800000000000000
+      internalID: -7382289609853954906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1544
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45f7ad6edca95180800000000000000
+      internalID: -9126073098567158452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1545
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e835b001d096b860800000000000000
+      internalID: 7545377453040285927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1416
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1940775b62096c120800000000000000
+      internalID: 2433791144567964817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1415
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6051042a2caeec00800000000000000
+      internalID: 931871469904941167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1416
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab40a92f333b0d430800000000000000
+      internalID: 3805738720822953146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1417
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9fcec04c6aaf40800000000000000
+      internalID: 5740519700640538038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1418
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ea845cffcebdc0800000000000000
+      internalID: -3621228367702203578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1417
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52da65f1206007210800000000000000
+      internalID: 1328568496259771685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1416
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e767689a5c16a0800000000000000
+      internalID: -6477202553449224102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1415
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a192bb69cbe4340800000000000000
+      internalID: 4850021204295752248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1416
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637c6b257c2875f0800000000000000
+      internalID: -758807655460605083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1417
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038cd5740b24c550800000000000000
+      internalID: 6180111886816412429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1418
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a61c569a769603f0800000000000000
+      internalID: -934894419380005215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1286
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bb9e2d51b10de50800000000000000
+      internalID: 6831990415267838771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1286
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775cd503ce970150800000000000000
+      internalID: 5838810002363275132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1286
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95790a5c1e22ef750800000000000000
+      internalID: 6340543678462859097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1285
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a9ed2e86caa4bd0800000000000000
+      internalID: -2645112264643929514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1285
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea19f4eec49cf9660800000000000000
+      internalID: 7394850445418533294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1286
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f6211cda1de9550800000000000000
+      internalID: 6169599083742916479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ce4065e5e656f40800000000000000
+      internalID: 5721100253093227613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1286
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f374f140233080800000000000000
+      internalID: -9208981345396329879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1286
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be476d97c5c3d8a0800000000000000
+      internalID: -6281459594121752911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef49e21fc503cdc0800000000000000
+      internalID: -3620043288542097437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9381bfbf3930a3050800000000000000
+      internalID: 5780937005806065721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1286
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0e6ae52c95b290800000000000000
+      internalID: -7875216686726639996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1158
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db465adaf8ceba0800000000000000
+      internalID: -6058309422753202928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1158
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a315154fa8d4b0800000000000000
+      internalID: -5415385840671809342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1158
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ffca20add08fd90800000000000000
+      internalID: -7063880785531699451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1157
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bec73c3e0d29050800000000000000
+      internalID: 5805932546289888085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1157
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751d02b96fa0b62b0800000000000000
+      internalID: -5590362458169487017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1158
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31241089d0be2b60800000000000000
+      internalID: 7723304859190174012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1159
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281902f10e331910800000000000000
+      internalID: 1806856053582272554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1158
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3dc9949ad5b660800000000000000
+      internalID: 7401061894423657217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1158
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f5559e44abe7b0800000000000000
+      internalID: -5193877087821891357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1158
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae82cc390c8c740800000000000000
+      internalID: 5172595913052973632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1158
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fb4a03fe9322080800000000000000
+      internalID: -9213738188170543351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1158
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2065cb4691e2f4a0800000000000000
+      internalID: -6560933671492820948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1030
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d91aa0a2040b040800000000000000
+      internalID: 4661296163639631170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5411b7b617b5a1980800000000000000
+      internalID: -8567434798426287803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1030
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaadf8cc524892d0800000000000000
+      internalID: -3271792163008173365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1029
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74858245b78e0c3c0800000000000000
+      internalID: -4341214424394606521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1029
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d9172658191cf0800000000000000
+      internalID: -281166743431685755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaccedd4d3b01b70800000000000000
+      internalID: 8867785393130228460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1030
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e6031533015090800000000000000
+      internalID: -8047647532646996680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1029
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e619de6f721600800000000000000
+      internalID: 437552227873645803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1029
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79aec916b93f1380800000000000000
+      internalID: -8998410076183156353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564917b16bb562750800000000000000
+      internalID: 6279807568117339237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1034
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc52f1227a537200800000000000000
+      internalID: 176584256639884494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1035
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde9cbf5904db70a0800000000000000
+      internalID: -6882674468779680035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1034
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e94c12510068d70800000000000000
+      internalID: 9044916992381066767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1035
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de68ff7432fefa50800000000000000
+      internalID: 6556944414797229785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1034
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f93a6aaf4cac19e0800000000000000
+      internalID: -1649253905362961930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 903
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65ed7adc074fa420800000000000000
+      internalID: 2643409626820633964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da1bfd0cbba14c0800000000000000
+      internalID: -4315930855820120729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ad7c1b8a5039f90800000000000000
+      internalID: -6948203578007233976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e130936b23717060800000000000000
+      internalID: 6949462330200568289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f9e99e2d098cd0800000000000000
+      internalID: -2555496819754143278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1068045a859f7af0800000000000000
+      internalID: -396433820837453798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 903
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b617c831f7e64960800000000000000
+      internalID: 7586005645577885368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 896
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0660ee411df675610800000000000000
+      internalID: 1609878335598233184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 896
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85baf01fc2ed020800000000000000
+      internalID: 2368379867905087649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 896
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2aab1c6658dde80800000000000000
+      internalID: -8152213074087337302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c16c0c6241bcb50800000000000000
+      internalID: 6614402634399226936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b22e3adf8931830800000000000000
+      internalID: 4040741505825123078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c7dfc52885676f0800000000000000
+      internalID: -687264576198312924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 896
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e7d5b14c2fb7f0800000000000000
+      internalID: -594707965054293837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 896
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac8e3dc5142f9b0800000000000000
+      internalID: -5047900365380859288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 776
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30969b007f03f640800000000000000
+      internalID: 5112446975900815419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 774
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3439ebc244a5d510800000000000000
+      internalID: 1573344251631711293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 774
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4700a8ef06606610800000000000000
+      internalID: 1612400885111981903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 778
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc528cf2a8a4210800000000000000
+      internalID: 1318017778785308114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 779
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d88700164042000800000000000000
+      internalID: 10137913827822941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 781
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6f8358364d5f70800000000000000
+      internalID: 9177568823384959726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 780
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ec5328e06a6a300800000000000000
+      internalID: 263080209492070034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_125
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 780
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e81c5d879c6a80800000000000000
+      internalID: -8472230165599427531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_126
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 774
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe770e3d374d4ee90800000000000000
+      internalID: -6997234327085877265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_127
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 778
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d44ead722d170400800000000000000
+      internalID: 290232734963352787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_128
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 779
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffe3f77092071a0800000000000000
+      internalID: -6813901124035215364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_129
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 781
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3703e7f08844fa0800000000000000
+      internalID: -5817375218532846597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 767
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c1a185bb8d8970800000000000000
+      internalID: 8758810461985685611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 767
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb20d4a695b0c6ff0800000000000000
+      internalID: -41645817889750337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_132
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 773
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd860b79aa4e2a0800000000000000
+      internalID: -6709049976398750818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_133
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 772
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b562fc66c3b7a0800000000000000
+      internalID: -6362523677318859935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_134
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 640
+        width: 57
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6db5d1b27ab56d0800000000000000
+      internalID: -3000620923094313299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_135
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 641
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52671226c92119620800000000000000
+      internalID: 2779022907934864933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_136
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 639
+        width: 52
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4858a6b8fa93ee0800000000000000
+      internalID: -1280799605687745282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_137
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 639
+        width: 54
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2b53be5593e160800000000000000
+      internalID: 7053645675360890344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_138
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 648
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f8c1c68f1701e0800000000000000
+      internalID: -2231780426701540514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_139
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 645
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e536a5fc473635f0800000000000000
+      internalID: -777373081996479005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_140
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 652
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb2c05bdfaf47f70800000000000000
+      internalID: 9184241507686427595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_141
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 652
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e24e14935edce0800000000000000
+      internalID: -1378572540300826414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_142
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 653
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3b72b234f60b10800000000000000
+      internalID: 1947512387464281472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_143
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 651
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939c3085ddf2eb70800000000000000
+      internalID: 8926976504823059356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_144
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 653
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fcdcfb54e645880800000000000000
+      internalID: -8623146140657922182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_145
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 644
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7169f535e0bd83050800000000000000
+      internalID: 5780610976304829975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_146
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 691
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034789e951f60efb0800000000000000
+      internalID: -4620571079036341200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_147
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 644
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14ae4f95b0ecdff0800000000000000
+      internalID: -9886028495150054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_148
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 642
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba45223c238d8f0800000000000000
+      internalID: -515606343657936018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_149
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 641
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21486ccd2f3b8a300800000000000000
+      internalID: 263658433868629010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_150
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 646
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4989e23f7214a0670800000000000000
+      internalID: 8505682486082050196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_151
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 530
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5c49f8ecb478e70800000000000000
+      internalID: 9117339321179096521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_152
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 517
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc657cf39e9a0d3a0800000000000000
+      internalID: -6642622631108978997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 530
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b00bb500c6fbc030800000000000000
+      internalID: 3516175238683099319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_154
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 527
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383c33b69a33a540800000000000000
+      internalID: 5017918828747438131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_155
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 536
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c5b00d958e6300800000000000000
+      internalID: 247281938920227901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_156
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 536
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd41c9abb7c72c70800000000000000
+      internalID: 8946338793615609343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_157
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 536
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6e0368f25b0e20800000000000000
+      internalID: 3317836777255759122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_158
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 536
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a808562d485b30800000000000000
+      internalID: 4276252673269344607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_159
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 536
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af64ad0c5fa37d380800000000000000
+      internalID: -8946617307571271942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_160
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 536
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c23be188d44625e0800000000000000
+      internalID: -1934783293225749816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_161
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 528
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e29e92b6575a30800000000000000
+      internalID: 4203924102338242225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_162
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 26
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e0ce0f624791260800000000000000
+      internalID: 7068808800734285355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_163
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 432
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181fc17e9d3c1d50800000000000000
+      internalID: 6709305295598721040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_164
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 416
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdc663863a3bad60800000000000000
+      internalID: 7902473976958864894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_165
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 400
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0096c53b351325390800000000000000
+      internalID: -7831142566482646784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_166
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 384
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf90f37a24482670800000000000000
+      internalID: 8514130044668387244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_167
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 388
+        width: 32
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd7be58c24bb65a0800000000000000
+      internalID: -6526925131625038398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_168
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 388
+        width: 28
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e959c0d8f293d4b0800000000000000
+      internalID: -5416824329444173343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_169
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 416
+        width: 28
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0186a635728890800000000000000
+      internalID: -7457269155389960793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_170
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 444
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b882ef398a3140800000000000000
+      internalID: 4700220068591088767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_171
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 470
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a219ca16b9dc0eed0800000000000000
+      internalID: -2386681735264038614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_172
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 393
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfe0f30ff1272e00800000000000000
+      internalID: 1019821219789205457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_173
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 420
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283f26e339b576de0800000000000000
+      internalID: -1340001676154440830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 397
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed971a4eda7b05dd0800000000000000
+      internalID: -2499295835697612322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_175
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 401
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68360fd9f509e080800000000000000
+      internalID: -9157781796534470550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_176
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 424
+        width: 257
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15843bc95c907b540800000000000000
+      internalID: 5023494653697280081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee13c5e513168190800000000000000
+      internalID: -7960654306560762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_178
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 264
+        width: 513
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb445e5a60597a6e0800000000000000
+      internalID: -1826327268089838405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_179
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 277
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b80f6b7266756a0800000000000000
+      internalID: -6460582819680711824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_180
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 260
+        width: 247
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c0c2692bcb1440800000000000000
+      internalID: 4907739597561186216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_181
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 264
+        width: 386
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada9eab551cc3560800000000000000
+      internalID: 7294918070385618345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_182
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 268
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772364f5dc0bfa90800000000000000
+      internalID: -7279210259646568581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_183
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b394006a0dc4fd0800000000000000
+      internalID: -2356279093633664143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_184
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c85610d0ddfbe9b0800000000000000
+      internalID: -5049663483879728952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_185
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c080a6bd232c06d0800000000000000
+      internalID: -3023002570627972927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_186
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540874dec9bb87b0800000000000000
+      internalID: -5220875045026921379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_187
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed4c627649163fd0800000000000000
+      internalID: -2362673164151140888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_188
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d590311a06bde00800000000000000
+      internalID: 1070555581356006748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_189
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e343e97e5499750800000000000000
+      internalID: 6312153213830446640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hollow_sprites_190
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8ab716fcc7d5e60800000000000000
+      internalID: 7952649747141732527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hollow_sprites_0: 6380190707479817123
+      hollow_sprites_1: 7058296136034109
+      hollow_sprites_10: 4220145921393346448
+      hollow_sprites_100: 9044916992381066767
+      hollow_sprites_101: 6556944414797229785
+      hollow_sprites_102: -1649253905362961930
+      hollow_sprites_103: 2643409626820633964
+      hollow_sprites_104: -4315930855820120729
+      hollow_sprites_105: -6948203578007233976
+      hollow_sprites_106: 6949462330200568289
+      hollow_sprites_107: -2555496819754143278
+      hollow_sprites_108: -396433820837453798
+      hollow_sprites_109: 7586005645577885368
+      hollow_sprites_11: 1535034726805937376
+      hollow_sprites_110: 1609878335598233184
+      hollow_sprites_111: 2368379867905087649
+      hollow_sprites_112: -8152213074087337302
+      hollow_sprites_113: 6614402634399226936
+      hollow_sprites_114: 4040741505825123078
+      hollow_sprites_115: -687264576198312924
+      hollow_sprites_116: -594707965054293837
+      hollow_sprites_117: -5047900365380859288
+      hollow_sprites_118: 5112446975900815419
+      hollow_sprites_119: 1573344251631711293
+      hollow_sprites_12: 2919959166979426570
+      hollow_sprites_120: 1612400885111981903
+      hollow_sprites_121: 1318017778785308114
+      hollow_sprites_122: 10137913827822941
+      hollow_sprites_123: 9177568823384959726
+      hollow_sprites_124: 263080209492070034
+      hollow_sprites_125: -8472230165599427531
+      hollow_sprites_126: -6997234327085877265
+      hollow_sprites_127: 290232734963352787
+      hollow_sprites_128: -6813901124035215364
+      hollow_sprites_129: -5817375218532846597
+      hollow_sprites_13: -841972917129833277
+      hollow_sprites_130: 8758810461985685611
+      hollow_sprites_131: -41645817889750337
+      hollow_sprites_132: -6709049976398750818
+      hollow_sprites_133: -6362523677318859935
+      hollow_sprites_134: -3000620923094313299
+      hollow_sprites_135: 2779022907934864933
+      hollow_sprites_136: -1280799605687745282
+      hollow_sprites_137: 7053645675360890344
+      hollow_sprites_138: -2231780426701540514
+      hollow_sprites_139: -777373081996479005
+      hollow_sprites_14: 1613563358725081767
+      hollow_sprites_140: 9184241507686427595
+      hollow_sprites_141: -1378572540300826414
+      hollow_sprites_142: 1947512387464281472
+      hollow_sprites_143: 8926976504823059356
+      hollow_sprites_144: -8623146140657922182
+      hollow_sprites_145: 5780610976304829975
+      hollow_sprites_146: -4620571079036341200
+      hollow_sprites_147: -9886028495150054
+      hollow_sprites_148: -515606343657936018
+      hollow_sprites_149: 263658433868629010
+      hollow_sprites_15: -3153013078808506082
+      hollow_sprites_150: 8505682486082050196
+      hollow_sprites_151: 9117339321179096521
+      hollow_sprites_152: -6642622631108978997
+      hollow_sprites_153: 3516175238683099319
+      hollow_sprites_154: 5017918828747438131
+      hollow_sprites_155: 247281938920227901
+      hollow_sprites_156: 8946338793615609343
+      hollow_sprites_157: 3317836777255759122
+      hollow_sprites_158: 4276252673269344607
+      hollow_sprites_159: -8946617307571271942
+      hollow_sprites_16: 879134192585219852
+      hollow_sprites_160: -1934783293225749816
+      hollow_sprites_161: 4203924102338242225
+      hollow_sprites_162: 7068808800734285355
+      hollow_sprites_163: 6709305295598721040
+      hollow_sprites_164: 7902473976958864894
+      hollow_sprites_165: -7831142566482646784
+      hollow_sprites_166: 8514130044668387244
+      hollow_sprites_167: -6526925131625038398
+      hollow_sprites_168: -5416824329444173343
+      hollow_sprites_169: -7457269155389960793
+      hollow_sprites_17: -2193679271645348951
+      hollow_sprites_170: 4700220068591088767
+      hollow_sprites_171: -2386681735264038614
+      hollow_sprites_172: 1019821219789205457
+      hollow_sprites_173: -1340001676154440830
+      hollow_sprites_174: -2499295835697612322
+      hollow_sprites_175: -9157781796534470550
+      hollow_sprites_176: 5023494653697280081
+      hollow_sprites_177: -7960654306560762136
+      hollow_sprites_178: -1826327268089838405
+      hollow_sprites_179: -6460582819680711824
+      hollow_sprites_18: 6390295803736865407
+      hollow_sprites_180: 4907739597561186216
+      hollow_sprites_181: 7294918070385618345
+      hollow_sprites_182: -7279210259646568581
+      hollow_sprites_183: -2356279093633664143
+      hollow_sprites_184: -5049663483879728952
+      hollow_sprites_185: -3023002570627972927
+      hollow_sprites_186: -5220875045026921379
+      hollow_sprites_187: -2362673164151140888
+      hollow_sprites_188: 1070555581356006748
+      hollow_sprites_189: 6312153213830446640
+      hollow_sprites_19: -4282577162628761410
+      hollow_sprites_190: 7952649747141732527
+      hollow_sprites_2: -2154568620315599054
+      hollow_sprites_20: 6506362924898853817
+      hollow_sprites_21: -7638984423990787664
+      hollow_sprites_22: -6848622720306947235
+      hollow_sprites_23: 7142423631645797796
+      hollow_sprites_24: -8073923570800621386
+      hollow_sprites_25: -723953552104322572
+      hollow_sprites_26: 3057162687331223992
+      hollow_sprites_27: 3156067822463129698
+      hollow_sprites_28: -9043072480530621476
+      hollow_sprites_29: -8514099681405586500
+      hollow_sprites_3: 1971108408203469984
+      hollow_sprites_30: 4782326454301776660
+      hollow_sprites_31: -1117325780030852456
+      hollow_sprites_32: -6640026920572502428
+      hollow_sprites_33: -9029330355480396072
+      hollow_sprites_34: -2746711369258914613
+      hollow_sprites_35: -1492996550649118974
+      hollow_sprites_36: -207616159481624471
+      hollow_sprites_37: -4402275855889188610
+      hollow_sprites_38: -2547742024925927747
+      hollow_sprites_39: -8204606101473878296
+      hollow_sprites_4: 4132751997273591803
+      hollow_sprites_40: -4605007106329202750
+      hollow_sprites_41: -5445228877216738774
+      hollow_sprites_42: -4791293788094382247
+      hollow_sprites_43: -6892909713581118517
+      hollow_sprites_44: -5851139665030287754
+      hollow_sprites_45: 7424683411906993511
+      hollow_sprites_46: 4998759019492371868
+      hollow_sprites_47: -7972069851648855660
+      hollow_sprites_48: -3927824945033120508
+      hollow_sprites_49: -2396504720777823329
+      hollow_sprites_5: 6498645414583486118
+      hollow_sprites_50: -7382289609853954906
+      hollow_sprites_51: -9126073098567158452
+      hollow_sprites_52: 7545377453040285927
+      hollow_sprites_53: 2433791144567964817
+      hollow_sprites_54: 931871469904941167
+      hollow_sprites_55: 3805738720822953146
+      hollow_sprites_56: 5740519700640538038
+      hollow_sprites_57: -3621228367702203578
+      hollow_sprites_58: 1328568496259771685
+      hollow_sprites_59: -6477202553449224102
+      hollow_sprites_6: 973397028945812434
+      hollow_sprites_60: 4850021204295752248
+      hollow_sprites_61: -758807655460605083
+      hollow_sprites_62: 6180111886816412429
+      hollow_sprites_63: -934894419380005215
+      hollow_sprites_64: 6831990415267838771
+      hollow_sprites_65: 5838810002363275132
+      hollow_sprites_66: 6340543678462859097
+      hollow_sprites_67: -2645112264643929514
+      hollow_sprites_68: 7394850445418533294
+      hollow_sprites_69: 6169599083742916479
+      hollow_sprites_7: 3134172769494133231
+      hollow_sprites_70: 5721100253093227613
+      hollow_sprites_71: -9208981345396329879
+      hollow_sprites_72: -6281459594121752911
+      hollow_sprites_73: -3620043288542097437
+      hollow_sprites_74: 5780937005806065721
+      hollow_sprites_75: -7875216686726639996
+      hollow_sprites_76: -6058309422753202928
+      hollow_sprites_77: -5415385840671809342
+      hollow_sprites_78: -7063880785531699451
+      hollow_sprites_79: 5805932546289888085
+      hollow_sprites_8: -4563475645817820720
+      hollow_sprites_80: -5590362458169487017
+      hollow_sprites_81: 7723304859190174012
+      hollow_sprites_82: 1806856053582272554
+      hollow_sprites_83: 7401061894423657217
+      hollow_sprites_84: -5193877087821891357
+      hollow_sprites_85: 5172595913052973632
+      hollow_sprites_86: -9213738188170543351
+      hollow_sprites_87: -6560933671492820948
+      hollow_sprites_88: 4661296163639631170
+      hollow_sprites_89: -8567434798426287803
+      hollow_sprites_9: 317721387954344350
+      hollow_sprites_90: -3271792163008173365
+      hollow_sprites_91: -4341214424394606521
+      hollow_sprites_92: -281166743431685755
+      hollow_sprites_93: 8867785393130228460
+      hollow_sprites_94: -8047647532646996680
+      hollow_sprites_95: 437552227873645803
+      hollow_sprites_96: -8998410076183156353
+      hollow_sprites_97: 6279807568117339237
+      hollow_sprites_98: 176584256639884494
+      hollow_sprites_99: -6882674468779680035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
